@@ -1,0 +1,11 @@
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\语音识别DEMO.exe.config
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\语音识别DEMO.exe
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\语音识别DEMO.pdb
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\AipSdk.dll
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\AipSdk.xml
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\obj\Debug\语音识别DEMO.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\obj\Debug\语音识别DEMO.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\obj\Debug\语音识别DEMO.exe
+c:\users\user\source\repos\语音识别+分词\语音识别DEMO\obj\Debug\语音识别DEMO.pdb
